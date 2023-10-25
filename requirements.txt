@@ -1,0 +1,11 @@
+uvicorn==0.22.0
+fastapi==0.95.1
+langchain==0.0.212
+openai==0.27.8
+torch==2.0.1
+torchvision==0.15.2
+chromadb==0.3.26
+Jinja2==3.1.2
+python-dotenv==1.0.0
+beautifulsoup4==4.12.2
+tiktoken==0.4.0
